@@ -1,2 +1,2 @@
-# imersaodev
+# imersaodev-aluraflix
 Projeto via GitHub!
